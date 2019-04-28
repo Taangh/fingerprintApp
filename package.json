@@ -1,0 +1,14 @@
+{
+  "name": "create-js-example",
+  "version": "1.0.0",
+  "description": "test for damian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clientjs": "^0.1.11"
+  }
+}
